@@ -1,0 +1,6 @@
+数据集 isear.txt 英文文本短句+情感标签(joy,fear,sad,shame,guilt等七类)
+
+x_train.pickle 处理好的训练集特征
+y_train.pickle 处理好的训练集标签
+x_test.pickle 处理好的测试集特征
+y_test.pickle 处理好的测试集标签
